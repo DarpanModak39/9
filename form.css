@@ -1,0 +1,15 @@
+form
+{
+    border: 4px solid white;
+}
+label
+{
+    text-align: center;
+    font-size: medium;
+    font-family: cursive;
+}
+input
+{
+    text-align: center;
+    border: 1px solid black;
+}
